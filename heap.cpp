@@ -1,5 +1,5 @@
 // heap.cpp
-// Diba Mirza
+// Lucas Yao 
 
 #include "heap.h"
 #include <iostream>
